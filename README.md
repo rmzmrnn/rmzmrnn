@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Rem (or Remz)!
 
-<!--
-**rmzmrnn/rmzmrnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Computer Engineer | Embedded Systems Enthusiast**
 
-Here are some ideas to get you started:
+I'm passionate about diving deep into the world of Embedded Systems and Devices. My current focus is mastering low-level programming and exploring the exciting world of electronics!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What I’m currently working on:
+- 🔧 Learning **Arduino** programming in **Assembly** and **C**.
+- 💻 Building a **POSIX-compliant Shell** through the awesome [Codecrafters challenge](https://app.codecrafters.io).
+  
+### 🛠️ What's next?
+- 📘 Planning to explore **Embedded Linux** and **Operating Systems**.
+- 🧑‍🔬 Will be working with **Raspberry Pi** to dive into Linux-based embedded systems.
+
+### ⚡ Fun facts:
+- 🤖 I love tinkering with hardware and getting my hands dirty with code.
+- 🔬 Always excited to learn new things in the embedded world.
+
+Let’s connect and learn together! 😄
+
+![](https://komarev.com/ghpvc/?username=rmzmrnn&color=blue)
