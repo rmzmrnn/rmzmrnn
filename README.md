@@ -6,11 +6,11 @@ I'm passionate about diving deep into the world of Embedded Systems and Devices.
 
 ### 🌱 What I’m currently working on:
 - 🔧 Learning **Arduino** programming in **Assembly** and **C**.
-- 💻 Building a **POSIX-compliant Shell** through the awesome [Codecrafters challenge](https://app.codecrafters.io).
+- 💻 Building a **POSIX-compliant Shell** through the awesome [**Codecrafters challenge**](https://app.codecrafters.io/courses/shell/overview).
+- 📘 Exploring [**Embedded Linux Systems**](https://github.com/arm-university/Embedded-Linux-Education-Kit).
   
 ### 🛠️ What's next?
-- 📘 Planning to explore **Embedded Linux** and **Operating Systems**.
-- 🧑‍🔬 Will be working with **Raspberry Pi** to dive into Linux-based embedded systems.
+- 🧑‍🔬 Will be working with **Raspberry Pi** to dive into [**Operating Systems Foundations**](https://github.com/arm-university/Operating-Systems-Foundations-with-Linux-on-the-Raspberry-Pi).
 
 ### ⚡ Fun facts:
 - 🤖 I love tinkering with hardware and getting my hands dirty with code.
