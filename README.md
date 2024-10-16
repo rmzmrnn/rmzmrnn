@@ -5,7 +5,7 @@
 I'm passionate about diving deep into the world of Embedded Systems and Devices. My current focus is mastering low-level programming and exploring the exciting world of electronics!
 
 ### 🌱 What I’m currently working on:
-- 🔧 Learning **Arduino** programming in **Assembly** and **C**.
+- 🔧 Learning **Arduino** programming in **Assembly** and **C** through this book [**The AVR Microcontroller and Embedded Systems Using Assembly and C: Using Arduino Uno and Atmel Studio**](https://www.amazon.com/Microcontroller-Embedded-Systems-Using-Assembly-dp-0997925965/dp/0997925965/ref=dp_ob_title_bk).
 - 💻 Building a **POSIX-compliant Shell** through the awesome [**Codecrafters challenge**](https://app.codecrafters.io/courses/shell/overview).
 - 📘 Exploring [**Embedded Linux Systems**](https://github.com/arm-university/Embedded-Linux-Education-Kit).
   
