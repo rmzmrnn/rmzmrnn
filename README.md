@@ -13,7 +13,7 @@ I'm passionate about diving deep into the world of Embedded Systems and Devices.
 - 🤖 Study [RISC-V Fundamentals (LFD210)](https://training.linuxfoundation.org/training/riscv-fundamentals-lfd210/)
 
 ### Complete ✅
-- 💻 Building a **POSIX-compliant Shell** through the awesome [**Codecrafters challenge**](https://app.codecrafters.io/courses/shell/overview).
+- 💻 Built a **POSIX-compliant Shell** through the awesome [**Codecrafters challenge**](https://app.codecrafters.io/courses/shell/overview). [**My repo**](https://github.com/rmzmrnn/codecrafters-shell-c)
 
 ### ⚡ Fun facts:
 - 🤖 I love tinkering with hardware and getting my hands dirty with code.
