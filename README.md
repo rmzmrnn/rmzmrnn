@@ -5,15 +5,16 @@
 I'm passionate about diving deep into the world of Embedded Systems and Devices. My current focus is mastering low-level programming and exploring the exciting world of electronics!
 
 ### 🌱 What I’m currently working on:
-- Studying [ArmEducationX: Embedded Systems Essentials with Arm: Get Practical with Hardware](https://www.edx.org/learn/embedded-systems/arm-education-embedded-systems-essentials-with-arm-get-practical-with-hardware)
+- 🤖 Study [RISC-V Fundamentals (LFD210)](https://training.linuxfoundation.org/training/riscv-fundamentals-lfd210/)
   
 ### 🛠️ What's next?
 - 🔧 Learn **Arduino** programming in **Assembly** and **C** through this book [**The AVR Microcontroller and Embedded Systems Using Assembly and C: Using Arduino Uno and Atmel Studio**](https://www.amazon.com/Microcontroller-Embedded-Systems-Using-Assembly-dp-0997925965/dp/0997925965/ref=dp_ob_title_bk).
 - 📘 Explore [**Embedded Linux Systems**](https://github.com/arm-university/Embedded-Linux-Education-Kit).
-- 🤖 Study [RISC-V Fundamentals (LFD210)](https://training.linuxfoundation.org/training/riscv-fundamentals-lfd210/)
+- 👨‍💻 Learn Rust programming
 
 ### Complete ✅
 - 💻 Built a **POSIX-compliant Shell** through the awesome [**Codecrafters challenge**](https://app.codecrafters.io/courses/shell/overview). [**My repo**](https://github.com/rmzmrnn/codecrafters-shell-c)
+- [ArmEducationX: Embedded Systems Essentials with Arm: Get Practical with Hardware](https://www.edx.org/learn/embedded-systems/arm-education-embedded-systems-essentials-with-arm-get-practical-with-hardware). [**My certificate**](http://credentials.edx.org/credentials/46576a7df1f3485da3bdfa3829797892/)
 
 ### ⚡ Fun facts:
 - 🤖 I love tinkering with hardware and getting my hands dirty with code.
